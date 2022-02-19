@@ -4,7 +4,7 @@ temp = list()
 jogos = []
 print('\033[34m=0\033[m'* 30)
 print('      JOGO DA MEGA SENA      ')
-print('\033[36m=0\033[m'* 30)
+print('\033[33m=0\033[m'* 30)
 quant = int(input('Quantos jogos você quer que eu sorteie? '))
 tot = 1
 while tot <= quant:
